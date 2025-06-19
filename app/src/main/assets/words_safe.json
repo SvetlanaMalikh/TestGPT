@@ -1,0 +1,1002 @@
+[
+  {
+    "English": "the",
+    "Russian": "а",
+    "Part of Speech": "article"
+  },
+  {
+    "English": "of",
+    "Russian": "из",
+    "Part of Speech": "preposition"
+  },
+  {
+    "English": "and",
+    "Russian": "и",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "to",
+    "Russian": "к",
+    "Part of Speech": "preposition"
+  },
+  {
+    "English": "in",
+    "Russian": "в",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "for",
+    "Russian": "для",
+    "Part of Speech": "preposition"
+  },
+  {
+    "English": "is",
+    "Russian": "является",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "on",
+    "Russian": "на",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "that",
+    "Russian": "что",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "by",
+    "Russian": "к",
+    "Part of Speech": "preposition"
+  },
+  {
+    "English": "this",
+    "Russian": "этот",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "with",
+    "Russian": "с",
+    "Part of Speech": "preposition"
+  },
+  {
+    "English": "you",
+    "Russian": "ты",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "it",
+    "Russian": "это",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "not",
+    "Russian": "не",
+    "Part of Speech": "interjection"
+  },
+  {
+    "English": "or",
+    "Russian": "или",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "be",
+    "Russian": "быть",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "are",
+    "Russian": "являются",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "from",
+    "Russian": "от",
+    "Part of Speech": "preposition"
+  },
+  {
+    "English": "at",
+    "Russian": "в",
+    "Part of Speech": "preposition"
+  },
+  {
+    "English": "as",
+    "Russian": "как",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "your",
+    "Russian": "твой",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "all",
+    "Russian": "все",
+    "Part of Speech": "article"
+  },
+  {
+    "English": "have",
+    "Russian": "иметь",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "new",
+    "Russian": "новый",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "more",
+    "Russian": "более",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "was",
+    "Russian": "был",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "we",
+    "Russian": "мы",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "will",
+    "Russian": "воля",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "home",
+    "Russian": "дом",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "can",
+    "Russian": "может",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "us",
+    "Russian": "нас",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "about",
+    "Russian": "о",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "if",
+    "Russian": "если",
+    "Part of Speech": "subordinating conjunction"
+  },
+  {
+    "English": "page",
+    "Russian": "страница",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "my",
+    "Russian": "мой",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "has",
+    "Russian": "имеет",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "search",
+    "Russian": "поиск",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "free",
+    "Russian": "бесплатно",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "but",
+    "Russian": "но",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "our",
+    "Russian": "наш",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "one",
+    "Russian": "один",
+    "Part of Speech": "number"
+  },
+  {
+    "English": "other",
+    "Russian": "другой",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "do",
+    "Russian": "делать",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "no",
+    "Russian": "нет",
+    "Part of Speech": "interjection"
+  },
+  {
+    "English": "information",
+    "Russian": "информация",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "time",
+    "Russian": "время",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "they",
+    "Russian": "они",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "site",
+    "Russian": "сайт",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "he",
+    "Russian": "он",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "up",
+    "Russian": "вверх",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "may",
+    "Russian": "может",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "what",
+    "Russian": "что",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "which",
+    "Russian": "который",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "their",
+    "Russian": "их",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "news",
+    "Russian": "новости",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "out",
+    "Russian": "вне",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "use",
+    "Russian": "использовать",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "any",
+    "Russian": "любой",
+    "Part of Speech": "article"
+  },
+  {
+    "English": "there",
+    "Russian": "там",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "see",
+    "Russian": "видеть",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "only",
+    "Russian": "только",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "so",
+    "Russian": "так",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "his",
+    "Russian": "его",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "when",
+    "Russian": "когда",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "contact",
+    "Russian": "контакт",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "here",
+    "Russian": "здесь",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "business",
+    "Russian": "бизнес",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "also",
+    "Russian": "также",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "now",
+    "Russian": "сейчас",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "help",
+    "Russian": "помощь",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "get",
+    "Russian": "получать",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "view",
+    "Russian": "вид",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "first",
+    "Russian": "первый",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "am",
+    "Russian": "являюсь",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "been",
+    "Russian": "был",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "would",
+    "Russian": "бы",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "how",
+    "Russian": "как",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "were",
+    "Russian": "были",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "me",
+    "Russian": "мне",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "services",
+    "Russian": "услуги",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "some",
+    "Russian": "некоторый",
+    "Part of Speech": "article"
+  },
+  {
+    "English": "these",
+    "Russian": "эти",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "click",
+    "Russian": "нажимать",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "its",
+    "Russian": "его",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "like",
+    "Russian": "нравиться",
+    "Part of Speech": "interjection"
+  },
+  {
+    "English": "service",
+    "Russian": "услуга",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "than",
+    "Russian": "чем",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "find",
+    "Russian": "находить",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "price",
+    "Russian": "цена",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "date",
+    "Russian": "дата",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "back",
+    "Russian": "назад",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "top",
+    "Russian": "вершина",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "people",
+    "Russian": "люди",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "had",
+    "Russian": "имел",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "list",
+    "Russian": "список",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "name",
+    "Russian": "имя",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "just",
+    "Russian": "только",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "over",
+    "Russian": "над",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "state",
+    "Russian": "состояние",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "year",
+    "Russian": "год",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "day",
+    "Russian": "день",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "into",
+    "Russian": "в",
+    "Part of Speech": "preposition"
+  },
+  {
+    "English": "two",
+    "Russian": "два",
+    "Part of Speech": "number"
+  },
+  {
+    "English": "health",
+    "Russian": "здоровье",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "world",
+    "Russian": "мир",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "next",
+    "Russian": "следующий",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "used",
+    "Russian": "использовал",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "go",
+    "Russian": "идти",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "work",
+    "Russian": "работа",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "last",
+    "Russian": "последний",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "most",
+    "Russian": "большинство",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "products",
+    "Russian": "продукция",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "music",
+    "Russian": "музыка",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "buy",
+    "Russian": "купить",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "data",
+    "Russian": "данные",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "make",
+    "Russian": "делать",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "them",
+    "Russian": "их",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "should",
+    "Russian": "должен",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "product",
+    "Russian": "продукт",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "system",
+    "Russian": "система",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "post",
+    "Russian": "почта",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "her",
+    "Russian": "ее",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "city",
+    "Russian": "город",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "add",
+    "Russian": "добавлять",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "policy",
+    "Russian": "политика",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "number",
+    "Russian": "число",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "such",
+    "Russian": "такой",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "please",
+    "Russian": "пожалуйста",
+    "Part of Speech": "interjection"
+  },
+  {
+    "English": "available",
+    "Russian": "доступный",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "copyright",
+    "Russian": "авторское право",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "support",
+    "Russian": "поддерживать",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "message",
+    "Russian": "сообщение",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "after",
+    "Russian": "после",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "best",
+    "Russian": "лучший",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "software",
+    "Russian": "программное обеспечение",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "then",
+    "Russian": "затем",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "good",
+    "Russian": "хороший",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "video",
+    "Russian": "видео",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "well",
+    "Russian": "хорошо",
+    "Part of Speech": "interjection"
+  },
+  {
+    "English": "where",
+    "Russian": "где",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "info",
+    "Russian": "информация",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "rights",
+    "Russian": "Права",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "public",
+    "Russian": "публичный",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "books",
+    "Russian": "книги",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "high",
+    "Russian": "высокий",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "school",
+    "Russian": "школа",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "through",
+    "Russian": "через",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "each",
+    "Russian": "каждый",
+    "Part of Speech": "article"
+  },
+  {
+    "English": "links",
+    "Russian": "ссылки",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "she",
+    "Russian": "она",
+    "Part of Speech": "pronoun"
+  },
+  {
+    "English": "review",
+    "Russian": "обзор",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "years",
+    "Russian": "годы",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "order",
+    "Russian": "заказ",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "very",
+    "Russian": "очень",
+    "Part of Speech": "adverb"
+  },
+  {
+    "English": "privacy",
+    "Russian": "конфиденциальность",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "book",
+    "Russian": "книга",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "items",
+    "Russian": "предметы",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "company",
+    "Russian": "компания",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "read",
+    "Russian": "читать",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "group",
+    "Russian": "группа",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "need",
+    "Russian": "нуждаться",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "many",
+    "Russian": "много",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "user",
+    "Russian": "пользователь",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "said",
+    "Russian": "сказал",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "does",
+    "Russian": "делает",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "set",
+    "Russian": "набор",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "under",
+    "Russian": "под",
+    "Part of Speech": "preposition"
+  },
+  {
+    "English": "general",
+    "Russian": "общий",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "research",
+    "Russian": "исследовать",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "university",
+    "Russian": "университет",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "january",
+    "Russian": "январь",
+    "Part of Speech": "proper noun"
+  },
+  {
+    "English": "mail",
+    "Russian": "почта",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "full",
+    "Russian": "полный",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "map",
+    "Russian": "карта",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "reviews",
+    "Russian": "обзоры",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "program",
+    "Russian": "программа",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "life",
+    "Russian": "жизнь",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "know",
+    "Russian": "знать",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "games",
+    "Russian": "игры",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "way",
+    "Russian": "способ",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "days",
+    "Russian": "дни",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "management",
+    "Russian": "управление",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "part",
+    "Russian": "часть",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "could",
+    "Russian": "мог",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "great",
+    "Russian": "большой",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "united",
+    "Russian": "объединенная",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "hotel",
+    "Russian": "отель",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "real",
+    "Russian": "настоящий",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "item",
+    "Russian": "элемент",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "international",
+    "Russian": "международный",
+    "Part of Speech": "adjective"
+  },
+  {
+    "English": "center",
+    "Russian": "центр",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "must",
+    "Russian": "должен",
+    "Part of Speech": "other"
+  },
+  {
+    "English": "store",
+    "Russian": "магазин",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "travel",
+    "Russian": "путешествовать",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "comments",
+    "Russian": "Комментарии",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "made",
+    "Russian": "сделал",
+    "Part of Speech": "verb"
+  },
+  {
+    "English": "development",
+    "Russian": "разработка",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "report",
+    "Russian": "отчет",
+    "Part of Speech": "noun"
+  },
+  {
+    "English": "off",
+    "Russian": "выключенный",
+    "Part of Speech": "adverb"
+  }
+]

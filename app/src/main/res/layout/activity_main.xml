@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/select_grammar"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:layout_marginBottom="8dp" />
+
+        <LinearLayout
+            android:id="@+id/grammarGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+
+        <EditText
+            android:id="@+id/wordCountInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_word_count"
+            android:inputType="number"
+            android:minHeight="48dp"
+            android:textColor="#000000"
+            android:layout_marginTop="16dp" />
+
+        <EditText
+            android:id="@+id/phraseCountInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_phrase_count"
+            android:inputType="number"
+            android:minHeight="48dp"
+            android:textColor="#000000"
+            android:layout_marginTop="8dp" />
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/switchSafeMode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/safe_dict"
+            android:checked="true"
+            android:layout_marginTop="12dp" />
+
+        <Button
+            android:id="@+id/generateButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/generate_button"
+            android:layout_marginTop="16dp" />
+    </LinearLayout>
+</ScrollView>

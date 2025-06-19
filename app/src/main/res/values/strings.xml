@@ -1,0 +1,8 @@
+<resources>
+    <string name="select_grammar">Выберите грамматики:</string>
+    <string name="hint_word_count">Количество слов</string>
+    <string name="hint_phrase_count">Количество фраз</string>
+    <string name="safe_dict">Безопасный словарь</string>
+    <string name="generate_button">Сгенерировать</string>
+    <string name="app_name">TestGPT</string>
+</resources>

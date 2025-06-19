@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- ОБЁРТКА: ЕДИНСТВЕННЫЙ дочерний элемент -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Контейнер для фраз -->
+        <LinearLayout
+            android:id="@+id/phrasesLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/generateButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Сгенерировать"
+            android:layout_marginTop="12dp" />
+
+    </LinearLayout>
+</ScrollView>
